@@ -1,4 +1,4 @@
-📩 Automated Email Response System
+📩 Automated AI Email Response System
 
 An AI-powered email assistant that automatically processes incoming emails, analyzes content, and generates relevant responses using NLP (BERT, TF-IDF).
 
